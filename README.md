@@ -2,7 +2,7 @@
 
 
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white (https://www.instagram.com/_samp_085/)) 
+
 
 
 ![ LuizLuciano085 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizLuciano085&show_icons=true&theme=radical)
